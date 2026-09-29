@@ -1,0 +1,110 @@
+[
+  {
+    "id": "p01",
+    "name": "Elena Rostova",
+    "company": "Vanguard AI",
+    "content_summary": "Posted a YouTube breakdown on scaling ARR from $1.2M to $4.5M in 14 months with 135% net retention. Emphasized that authentic founder storytelling beats automated cadence spam every single time.",
+    "persona_type": "Founder",
+    "lead_score": 92,
+    "bio": "Founder & CEO at Vanguard AI, a B2B revenue intelligence platform for mid-market teams. Highly responsive to data-backed partnership proposals that respect executive deep work. Strong potential champion."
+  },
+  {
+    "id": "p02",
+    "name": "Marcus Vance",
+    "company": "Hyperion Logic",
+    "content_summary": "Shared an Instagram video explaining how closing a $6.8M Seed round followed 50 enterprise pilot deployments. Argued that founders should spend 80% of their early cycles directly in customer problem interviews.",
+    "persona_type": "Founder",
+    "lead_score": 92,
+    "bio": "Co-founder & Chief Product Officer at Hyperion Logic, building distributed edge compute nodes. Focuses aggressively on developer tooling and product-led motions. High-intent decision maker."
+  },
+  {
+    "id": "p03",
+    "name": "Samantha Chen",
+    "company": "Orbit Metrics",
+    "content_summary": "Uploaded a podcast clip on bootstrapping Orbit Metrics to $2.1M ARR with only 7 full-time team members. Believes sustainable unit economics matter far more than artificial hypergrowth hype.",
+    "persona_type": "Founder",
+    "lead_score": 92,
+    "bio": "Solo Founder & Lead Architect at Orbit Metrics, creating observability tooling for serverless stacks. Lean operational footprint and values hyper-efficient software solutions. Great strategic fit."
+  },
+  {
+    "id": "p04",
+    "name": "David Kross",
+    "company": "Aether Data Systems",
+    "content_summary": "Published a technical deep-dive on cutting database p99 latency by 42% across 28 Kubernetes clusters. Stated that deterministic orchestration and strict schemas prevent late-night outage fires.",
+    "persona_type": "Technical Buyer",
+    "lead_score": 88,
+    "bio": "VP of Infrastructure & Engineering at Aether Data Systems. Oversees cloud architecture, platform reliability, and vendor evaluations for backend infrastructure. Key technical buyer for dev systems."
+  },
+  {
+    "id": "p05",
+    "name": "Priya Nair",
+    "company": "Synthetix Cloud",
+    "content_summary": "Gave a conference keynote showing how architectural refactoring saved $380,000 annually across AWS multi-region infrastructure. Insists that vendor lock-in is only justified when developer ergonomics save 2x engineering time.",
+    "persona_type": "Technical Buyer",
+    "lead_score": 88,
+    "bio": "Head of Platform Engineering at Synthetix Cloud. Active open-source maintainer and Cloud Native Computing Foundation contributor. Strict evaluator of developer tooling and security ergonomics."
+  },
+  {
+    "id": "p06",
+    "name": "Julian Becker",
+    "company": "Kinetix Security",
+    "content_summary": "Shared a YouTube walkthrough of automated security scanning across 95 internal repositories that slashed triage time from 4 days to 45 minutes. Convinced shift-left security must empower engineers rather than block pull requests.",
+    "persona_type": "Technical Buyer",
+    "lead_score": 88,
+    "bio": "Chief Information Security Officer at Kinetix Security. Leads enterprise security automation and continuous integration governance. Excellent fit for automated workflow and compliance integrations."
+  },
+  {
+    "id": "p07",
+    "name": "Rachel Diaz",
+    "company": "Solas Health",
+    "content_summary": "Posted an Instagram carousel celebrating onboarding 115 remote healthcare professionals in 9 months while sustaining a 94% retention rate. Believes human-centric empathy in onboarding directly prevents mid-level turnover.",
+    "persona_type": "HR Manager",
+    "lead_score": 86,
+    "bio": "Chief People Officer at Solas Health. Manages nationwide remote talent acquisition, culture, and employee satisfaction initiatives. Primary budget holder for talent operations and team tools."
+  },
+  {
+    "id": "p08",
+    "name": "Kenneth Thorne",
+    "company": "Apex Fintech",
+    "content_summary": "Wrote an article detailing how structured interview rubrics reduced average time-to-hire from 54 days to 21 days across 40 requisitions. Advocates that compensation transparency and objective scoring eliminate unconscious bias.",
+    "persona_type": "HR Manager",
+    "lead_score": 86,
+    "bio": "Director of Talent Acquisition at Apex Fintech. Leads data-driven technical hiring and employer brand strategies across North America. Eager to adopt tools that improve recruiter productivity."
+  },
+  {
+    "id": "p09",
+    "name": "Amina Al-Mansoor",
+    "company": "Nebula Studios",
+    "content_summary": "Discussed in a panel discussion how employee wellness initiatives cut voluntary attrition by 28% across 3 international offices. Argues that psychological safety and transparent feedback drive team creativity faster than any perk.",
+    "persona_type": "HR Manager",
+    "lead_score": 86,
+    "bio": "Head of People & Culture at Nebula Studios. Focuses on creative team retention, remote engagement, and organizational psychology. Responsive to solutions fostering transparent communication."
+  },
+  {
+    "id": "p10",
+    "name": "Liam O'Connor",
+    "company": "Tech Innovators Society",
+    "content_summary": "Vlogged about organizing a regional collegiate hackathon with 450 participants and 18 sponsor booths. Stated that undergraduate builders should ship production code to real users instead of just completing textbook exercises.",
+    "persona_type": "Student",
+    "lead_score": 78,
+    "bio": "Senior Computer Science undergraduate and President of the Tech Innovators Society at State University. Coordinates campus innovation labs and hackathons. Enthusiastic early adopter of developer tools."
+  },
+  {
+    "id": "p11",
+    "name": "Zoe Kim",
+    "company": "Autonomous Racing Lab",
+    "content_summary": "Uploaded track footage achieving a 98.4% perception accuracy score on simulated LIDAR tracks during university competition. Strongly believes open-source robotics toolchains will democratize autonomous systems for student researchers.",
+    "persona_type": "Student",
+    "lead_score": 78,
+    "bio": "Graduate Robotics Researcher and Team Lead at the University Autonomous Racing Lab. Publishes research benchmarks on vision and sensor fusion models. Passionate about community robotics software."
+  },
+  {
+    "id": "p12",
+    "name": "Arjun Patel",
+    "company": "Open Source Club",
+    "content_summary": "Hosted a live stream celebrating 60 students contributing 120 merged pull requests to major open-source repositories over 1 semester. Convinced that student clubs thrive when mentorship is decentralized and peer-driven.",
+    "persona_type": "Student",
+    "lead_score": 78,
+    "bio": "Undergraduate Software Engineering Student and Open Source Club Lead at Tech Institute. Organizes student sprint weekends and open-source contribution workshops. Highly engaged student community leader."
+  }
+]

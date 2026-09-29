@@ -1,0 +1,362 @@
+[
+  {
+    "batch_id": 1,
+    "prospect_id": "p01",
+    "persona_type": "Founder",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Elena,\n\nCongratulations on scaling ARR to $4.5M. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Hi Alex, thanks for the thoughtful note. Impressed that you caught that milestone. Do you have 15 mins this Thursday to discuss?",
+    "outcome": "interested",
+    "timestamp": "2026-09-10T10:00:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p02",
+    "persona_type": "Founder",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Marcus,\n\nI resonated strongly with your insight regarding early customer discovery teaching 10x more. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:04:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p03",
+    "persona_type": "Founder",
+    "angle_used": "generic",
+    "message_sent": "Hi Samantha,\n\nHope your week is going well. We help growing organizations at Orbit Metrics streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:08:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p04",
+    "persona_type": "Technical Buyer",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi David,\n\nCongratulations on cutting database latency by 42%. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Thanks for reaching out Alex. We're currently in the middle of our sprint planning, but feel free to circle back next quarter.",
+    "outcome": "reply",
+    "timestamp": "2026-09-10T10:12:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p05",
+    "persona_type": "Technical Buyer",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Priya,\n\nI resonated strongly with your insight regarding developer ergonomics saving engineering time. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:16:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p06",
+    "persona_type": "Technical Buyer",
+    "angle_used": "generic",
+    "message_sent": "Hi Julian,\n\nHope your week is going well. We help growing organizations at Kinetix Security streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:20:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p07",
+    "persona_type": "HR Manager",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Rachel,\n\nCongratulations on sustaining a 94% retention rate for 115 hires. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:24:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p08",
+    "persona_type": "HR Manager",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Kenneth,\n\nI resonated strongly with your insight regarding structured rubrics eliminating unconscious bias. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:28:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p09",
+    "persona_type": "HR Manager",
+    "angle_used": "generic",
+    "message_sent": "Hi Amina,\n\nHope your week is going well. We help growing organizations at Nebula Studios streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:32:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p10",
+    "persona_type": "Student",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Liam,\n\nCongratulations on organizing 450 hackathon participants. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:36:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p11",
+    "persona_type": "Student",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Zoe,\n\nI resonated strongly with your insight regarding open-source toolchains democratizing robotics. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:40:00Z"
+  },
+  {
+    "batch_id": 1,
+    "prospect_id": "p12",
+    "persona_type": "Student",
+    "angle_used": "generic",
+    "message_sent": "Hi Arjun,\n\nHope your week is going well. We help growing organizations at Open Source Club streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-10T10:44:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p01",
+    "persona_type": "Founder",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Elena,\n\nCongratulations on scaling ARR to $4.5M. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Appreciate the context Alex! Your timing is great since we're re-evaluating tooling this month. Let's set up a call.",
+    "outcome": "interested",
+    "timestamp": "2026-09-17T11:00:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p02",
+    "persona_type": "Founder",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Marcus,\n\nCongratulations on raising a $6.8M Seed round. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Appreciate the note Alex. We have an existing vendor in place, but I will keep your platform in mind if our needs shift.",
+    "outcome": "reply",
+    "timestamp": "2026-09-17T11:04:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p03",
+    "persona_type": "Founder",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Samantha,\n\nI resonated strongly with your insight regarding respecting deep work blocks. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-17T11:08:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p04",
+    "persona_type": "Technical Buyer",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi David,\n\nCongratulations on cutting database latency by 42%. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Thanks Alex. Loved that you actually reviewed our setup. Send over a calendar link and we can connect Friday.",
+    "outcome": "interested",
+    "timestamp": "2026-09-17T11:12:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p05",
+    "persona_type": "Technical Buyer",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Priya,\n\nCongratulations on saving $380,000 annually across AWS. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Hi Alex, forwarded this to our ops lead. If there's an immediate fit, they'll reach out directly.",
+    "outcome": "reply",
+    "timestamp": "2026-09-17T11:16:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p06",
+    "persona_type": "Technical Buyer",
+    "angle_used": "generic",
+    "message_sent": "Hi Julian,\n\nHope your week is going well. We help growing organizations at Kinetix Security streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-17T11:20:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p07",
+    "persona_type": "HR Manager",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Rachel,\n\nI resonated strongly with your insight regarding human-centric empathy in onboarding. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "Hey Alex, very relevant to what we're solving right now. Let's do a quick intro next Tuesday.",
+    "outcome": "interested",
+    "timestamp": "2026-09-17T11:24:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p08",
+    "persona_type": "HR Manager",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Kenneth,\n\nI resonated strongly with your insight regarding structured rubrics eliminating unconscious bias. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-17T11:28:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p09",
+    "persona_type": "HR Manager",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Amina,\n\nCongratulations on cutting voluntary attrition by 28%. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-17T11:32:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p10",
+    "persona_type": "Student",
+    "angle_used": "generic",
+    "message_sent": "Hi Liam,\n\nHope your week is going well. We help growing organizations at Tech Innovators Society streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-17T11:36:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p11",
+    "persona_type": "Student",
+    "angle_used": "generic",
+    "message_sent": "Hi Zoe,\n\nHope your week is going well. We help growing organizations at Autonomous Racing Lab streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-17T11:40:00Z"
+  },
+  {
+    "batch_id": 2,
+    "prospect_id": "p12",
+    "persona_type": "Student",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Arjun,\n\nI resonated strongly with your insight regarding mentorship being decentralized and peer-driven. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-17T11:44:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p01",
+    "persona_type": "Founder",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Elena,\n\nCongratulations on scaling ARR to $4.5M. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Hi Alex, thanks for the thoughtful note. Impressed that you caught that milestone. Do you have 15 mins this Thursday to discuss?",
+    "outcome": "interested",
+    "timestamp": "2026-09-24T14:00:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p02",
+    "persona_type": "Founder",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Marcus,\n\nCongratulations on raising a $6.8M Seed round. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Appreciate the context Alex! Your timing is great since we're re-evaluating tooling this month. Let's set up a call.",
+    "outcome": "interested",
+    "timestamp": "2026-09-24T14:04:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p03",
+    "persona_type": "Founder",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Samantha,\n\nCongratulations on bootstrapping to $2.1M ARR with 7 people. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Thanks for reaching out Alex. We're currently in the middle of our sprint planning, but feel free to circle back next quarter.",
+    "outcome": "reply",
+    "timestamp": "2026-09-24T14:08:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p04",
+    "persona_type": "Technical Buyer",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi David,\n\nCongratulations on cutting database latency by 42%. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Thanks Alex. Loved that you actually reviewed our setup. Send over a calendar link and we can connect Friday.",
+    "outcome": "interested",
+    "timestamp": "2026-09-24T14:12:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p05",
+    "persona_type": "Technical Buyer",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Priya,\n\nCongratulations on saving $380,000 annually across AWS. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Hey Alex, very relevant to what we're solving right now. Let's do a quick intro next Tuesday.",
+    "outcome": "interested",
+    "timestamp": "2026-09-24T14:16:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p06",
+    "persona_type": "Technical Buyer",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Julian,\n\nCongratulations on reducing security triage time from 4 days to 45 min. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "Appreciate the note Alex. We have an existing vendor in place, but I will keep your platform in mind if our needs shift.",
+    "outcome": "reply",
+    "timestamp": "2026-09-24T14:20:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p07",
+    "persona_type": "HR Manager",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Rachel,\n\nI resonated strongly with your insight regarding human-centric empathy in onboarding. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "Hi Alex, thanks for the thoughtful note. Impressed that you caught that milestone. Do you have 15 mins this Thursday to discuss?",
+    "outcome": "interested",
+    "timestamp": "2026-09-24T14:24:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p08",
+    "persona_type": "HR Manager",
+    "angle_used": "referenced_opinion",
+    "message_sent": "Hi Kenneth,\n\nI resonated strongly with your insight regarding structured rubrics eliminating unconscious bias. Our platform was designed specifically around that principle to ensure authentic outreach. Would love to share a short 3-minute demo video if you're interested.\n\nBest,\nAlex",
+    "simulated_response": "Thanks Alex. Loved that you actually reviewed our setup. Send over a calendar link and we can connect Friday.",
+    "outcome": "interested",
+    "timestamp": "2026-09-24T14:28:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p09",
+    "persona_type": "HR Manager",
+    "angle_used": "referenced_metric",
+    "message_sent": "Hi Amina,\n\nCongratulations on cutting voluntary attrition by 28%. We built an automated workflow pipeline that helps teams at your scale maintain operational velocity without adding headcount. Would you be open to a brief 10-minute chat next Tuesday?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-24T14:32:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p10",
+    "persona_type": "Student",
+    "angle_used": "generic",
+    "message_sent": "Hi Liam,\n\nHope your week is going well. We help growing organizations at Tech Innovators Society streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-24T14:36:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p11",
+    "persona_type": "Student",
+    "angle_used": "generic",
+    "message_sent": "Hi Zoe,\n\nHope your week is going well. We help growing organizations at Autonomous Racing Lab streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-24T14:40:00Z"
+  },
+  {
+    "batch_id": 3,
+    "prospect_id": "p12",
+    "persona_type": "Student",
+    "angle_used": "generic",
+    "message_sent": "Hi Arjun,\n\nHope your week is going well. We help growing organizations at Open Source Club streamline outreach campaigns and accelerate conversion rates. Would you be open to exploring a quick case study?\n\nBest,\nAlex",
+    "simulated_response": "",
+    "outcome": "no_reply",
+    "timestamp": "2026-09-24T14:44:00Z"
+  }
+]

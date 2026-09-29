@@ -1,0 +1,82 @@
+{
+  "Founder": {
+    "interested": [
+      "Hi Alex, caught my eye with that milestone mention. Timing is actually good as we're reviewing our outreach tooling. Do you have 15 minutes this Thursday afternoon?",
+      "Thanks Alex. I like that you did your homework on our ARR numbers. What kind of pricing structure do you offer for early-stage teams? Our budget is tight right now.",
+      "Hey Alex, interesting premise. How does your platform preserve genuine founder voice without feeling like canned automation? Send over a quick loom or deck.",
+      "Hi Alex, appreciate the thoughtful email. Forwarded to my co-founder and would love to see a 10-minute demo. Drop a calendar link."
+    ],
+    "reply": [
+      "Thanks for reaching out Alex. We're head-down preparing for our next round, so not taking vendor meetings right now. Check back next quarter.",
+      "Hi Alex, thanks for the note. We've got an in-house workflow that handles this currently, so not a fit at this stage. Best of luck!",
+      "I am currently out of office attending our annual board retreat with limited email access. For urgent inquiries, please contact ops@vanguard.ai.",
+      "Please remove me from your outreach list."
+    ],
+    "no_reply": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Technical Buyer": {
+    "interested": [
+      "Hi Alex, latency optimization is top of mind for our platform team right now. Does your pipeline support open telemetry tracing and webhook notifications? Open to a sync Friday.",
+      "Appreciate the technical context Alex. Sounds compelling, but what does the infrastructure overhead and pricing tier look like for a 30-node cluster?",
+      "Hey Alex, saw your note. How does your SDK handle retry idempotency and rate-limiting gracefully? Let's do a 15-minute architecture walkthrough.",
+      "Hi Alex, your benchmark numbers got our attention. Send over documentation or GitHub repo links and let's coordinate a brief intro call next Tuesday."
+    ],
+    "reply": [
+      "Thanks for getting in touch Alex. We recently signed an annual enterprise commitment with another vendor, but will keep you on file.",
+      "Appreciate the email Alex. We're strictly freezing new vendor onboarding until Q4 infrastructure refactoring finishes. Best of luck.",
+      "Automatic reply: I am away at KubeCon with delayed connectivity through Friday. Please contact infrastructure-oncall for incidents.",
+      "Not interested in third-party tooling at this time."
+    ],
+    "no_reply": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "HR Manager": {
+    "interested": [
+      "Hello Alex, this speaks directly to our remote onboarding initiatives this year. What is the pricing per seat, and do you offer enterprise volume discounts?",
+      "Hi Alex, thank you for the thoughtful message. Empathy in candidate communications is essential for us. Could you send over a 5-minute case study?",
+      "Thanks Alex! Our talent ops team was just discussing how to automate touchpoints without losing the human feel. Let's schedule a call next Wednesday.",
+      "Hello Alex, timing is great. I'd love to loop in our Head of Recruiting for a brief 15-minute intro. Could you share your calendar availability?"
+    ],
+    "reply": [
+      "Thank you for contacting us Alex. We are fully staffed on our HR tech stack for this fiscal year, but feel free to ping me again in six months.",
+      "Hi Alex, appreciate the outreach. This isn't a priority for our people team right now, but best of luck with your product.",
+      "Thank you for your email. I am currently out of the office on annual leave returning next Monday with no email access.",
+      "Not relevant for our hiring roadmap. Please unsubscribe."
+    ],
+    "no_reply": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Student": {
+    "interested": [
+      "Hey Alex! Super excited about what you're building. Do you offer student hackathon discounts or open-source community licenses? We have a tight budget.",
+      "Hi Alex, thanks for reaching out! Loved that you noticed our robotics project. Could our team test a trial version for our upcoming competition track?",
+      "Hey Alex, this looks awesome. How steep is the learning curve for undergraduate devs who haven't worked with enterprise APIs before?",
+      "Hi Alex! We would love to feature this in our campus developer workshop next month. Do you have 15 minutes to chat about a student partnership?"
+    ],
+    "reply": [
+      "Hey Alex, thanks for the email. Right now our club is in the middle of finals week so we don't have bandwidth to evaluate new tools.",
+      "Thanks for thinking of us Alex! We are strictly sticking to open-source software for our coursework projects, but appreciate the note.",
+      "Auto-reply: On university recess between semesters with sporadic email checking.",
+      "Not interested at this time."
+    ],
+    "no_reply": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

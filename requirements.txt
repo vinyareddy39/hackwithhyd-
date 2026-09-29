@@ -1,0 +1,9 @@
+groq
+streamlit
+pandas
+python-dotenv
+plotly
+pytest
+fastapi
+uvicorn
+httpx

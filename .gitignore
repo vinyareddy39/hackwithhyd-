@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment / Secrets
+.env
+*.env
+!.env.example
+
+# Pytest / Coverage / Testing
+.pytest_cache/
+.coverage
+htmlcov/
+test-results/
+
+# Archives
+*.zip
+
+# Operating System / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
